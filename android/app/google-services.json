@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543617234015",
+    "project_id": "authentication-fbe51",
+    "storage_bucket": "authentication-fbe51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543617234015:android:e345f80559dffa3b7857ea",
+        "android_client_info": {
+          "package_name": "com.example.new5ra_xo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCK_5xyeEf84QZNezh4uCNa1GU8cceqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
